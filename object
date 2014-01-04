@@ -1,0 +1,15 @@
+object
+	glass
+	water
+class
+	human
+method
+	drink
+
+
+
+
+person kunal
+	kunal.speak
+	kunal.drink
+	kunal.walk
